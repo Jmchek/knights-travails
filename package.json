@@ -1,0 +1,20 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "This program shows the shortest possible way to get from one square to another by outputting all squares the knight will stop on along the way.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmchek/knights-travails.git"
+  },
+  "author": "Joe Chek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jmchek/knights-travails/issues"
+  },
+  "homepage": "https://github.com/Jmchek/knights-travails#readme"
+}
