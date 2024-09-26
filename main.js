@@ -1,4 +1,6 @@
-import knightMoves from "./knightMoves.js";
+import knightTravails from "./knightTravails.js";
+
+let test = knightTravails();
 
 
-knightMoves();
+test.knightMoves([0,0]);
